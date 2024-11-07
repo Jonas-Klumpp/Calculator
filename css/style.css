@@ -69,8 +69,8 @@ button:focus{
     background: #212130;
 }
 
-.topRow{
-    background: #b87d00;
+.btnOpFac, .btnOpSqr{
+    background: #29520e;
 }
 
 .numbers{
