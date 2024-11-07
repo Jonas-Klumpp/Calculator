@@ -18,7 +18,7 @@ body{
 .container{
     background: #000000;
     padding: 25px;
-    width: 410px;
+    width: 350px;
     border-radius: 25px;
 }
 
@@ -56,12 +56,12 @@ button:focus{
 
 .calc-keys{
     display: grid;
-    grid-template-columns: repeat(5,1fr);
+    grid-template-columns: repeat(4,1fr);
     grid-column-gap: 10px;
     grid-row-gap: 10px;
 }
 
-.operations{
+.btnOperations{
     background: #212130;
 }
 
